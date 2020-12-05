@@ -101,4 +101,4 @@ Projeto realizado por <a href="http://github.com/dunia07" target="_blank"> Dunia
 
 
 
-*“The universe is a crazy and chaotic place, Morty!”* - Sanchez,Rick.
+*“The universe is a crazy and chaotic place, Morty!”* - Sanchez, Rick.
