@@ -78,7 +78,7 @@ Tirando nosso protótipo do papel para a tela, utilizamos o mesmo modelo de font
 
 ## 4. Tecnologias utilizadas
 
- Este projeto será foi realizado utilizando as ferramentas abaixo:
+ Este projeto foi realizado utilizando as ferramentas abaixo:
   * Vs Code;
   * Trello;
   * Google Forms;
