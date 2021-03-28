@@ -82,7 +82,6 @@ Tirando nosso protótipo do papel para a tela, utilizamos o mesmo modelo de font
   * Vs Code;
   * Trello;
   * Google Forms;
-  * HubSpot;
   * GitHub;
   * FontMeme.
 
